@@ -1,7 +1,8 @@
-Hi there
+Hi there 
 
 
 ![](https://holopin.me/shyanroychoudhury)
 
-Rookie MERN stack dev.
+:checkered_flag: Rookie MERN stack dev.
 Currenly learning NextJS.
+:computer: Your Friendly Neighbourhood Enthusiastic Coder 
