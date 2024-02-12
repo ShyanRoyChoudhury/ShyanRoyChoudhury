@@ -1,6 +1,6 @@
-Hi there 
+Hi there. I love Coding. Currently on the lookout for a web development role, especially writing javascript or typescript. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 
-:checkered_flag: Rookie MERN stack dev.  
-:yum: Currenly learning NextJS.  
-:computer: Your Friendly Neighbourhood Enthusiastic Coder.  
-:mailbox: Reach me @shayan.roy31@gmail.com 
+:checkered_flag: MERN stack dev.  
+:yum: Currenly learning NextJS.
+
+:mailbox: Reach me @shayan.roy31@gmail.com
